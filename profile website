@@ -1,0 +1,202 @@
+<!doctype html>
+<html>
+<head>
+  <title>Profile</title>
+</head>
+
+<body>
+  <h1><a href="index.html">Home</a></h1>
+  <br>
+  <br>
+  <br>
+  <img src="SNU logo.png">
+  <br>
+  <br>
+  <br>
+  <ol>
+    <li><a href="Introduce.html">Introduce</a></li>
+    <li><a href="Academic.html">Academic</a></li>
+    <li><a href="Career.html">Career</a></li>
+    <li><a href="Ability.html">Ability</a></li>
+  </ol>
+  <br>
+  <br>
+  <br>
+  <h2>Ability</h2>
+  <p>
+    <br><li>born in Daegu, Republic of Korea at 1996. 07. 01</li>
+    <br><li>The Affiliated Elimentary School to the College of Education at KyeongPook National university</li>
+    <br><li>ChungGu Middle School</li>
+    <br><li>YoungJin High School</li>
+    <br><li>Major in Architecture, College of Engineering at Seoul National University</li>
+  </p>
+
+
+
+</body>
+
+<!doctype html>
+<html>
+<head>
+  <title>Profile</title>
+</head>
+
+<body>
+  <h1><a href="index.html">Home</a></h1>
+  <br>
+  <br>
+  <br>
+  <img src="SNU logo.png">
+  <br>
+  <br>
+  <br>
+  <ol>
+    <li><a href="Introduce.html">Introduce</a></li>
+    <li><a href="Academic.html">Academic</a></li>
+    <li><a href="Career.html">Career</a></li>
+    <li><a href="Ability.html">Ability</a></li>
+  </ol>
+  <br>
+  <br>
+  <br>
+  <h2>Academic</h2>
+  <p>
+    <br><li>born in Daegu, Republic of Korea at 1996. 07. 01</li>
+    <br><li>The Affiliated Elimentary School to the College of Education at KyeongPook National university</li>
+    <br><li>ChungGu Middle School</li>
+    <br><li>YoungJin High School</li>
+    <br><li>Major in Architecture, College of Engineering at Seoul National University</li>
+  </p>
+
+
+
+</body>
+
+<!doctype html>
+<html>
+<head>
+  <title>Profile</title>
+</head>
+
+<body>
+  <h1><a href="index.html">Home</a></h1>
+  <br>
+  <br>
+  <br>
+  <img src="SNU logo.png">
+  <br>
+  <br>
+  <br>
+  <ol>
+    <li><a href="Introduce.html">Introduce</a></li>
+    <li><a href="Academic.html">Academic</a></li>
+    <li><a href="Career.html">Career</a></li>
+    <li><a href="Ability.html">Ability</a></li>
+  </ol>
+  <br>
+  <br>
+  <br>
+  <h2>Career</h2>
+  <p>
+    <br><li>Student Union 2017 59th Seoul National University</li>
+    <br><li>Student Union 2017 32th College of Engineering, Seoul National University</li>
+    <br><li>CEO 2018 All Shake Ltd.</li>
+    <br><li>CEO 2019 Stoa Institute</li>
+
+  </p>
+
+
+
+</body>
+
+<!doctype html>
+<html>
+<head>
+  <title>Profile</title>
+</head>
+
+<body>
+  <h1><a href="index.html">Home</a></h1>
+  <br>
+  <br>
+  <br>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7T7r_oSp0SE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <br>
+  <br>
+  <br>
+  <ol>
+    <li><a href="Introduce.html">Introduce</a></li>
+    <li><a href="Academic.html">Academic</a></li>
+    <li><a href="Career.html">Career</a></li>
+    <li><a href="Ability.html">Ability</a></li>
+  </ol>
+  <br>
+  <br>
+  <br>
+  <h2>Hong Jeong Woo</h2>
+  <br>
+  <br>
+  <br>
+  <p>
+    1996. 07. 01
+  </p>
+
+  <div id="disqus_thread"></div>
+  <script>
+      /**
+      *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+      *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables    */
+      /*
+      var disqus_config = function () {
+      this.page.url = PAGE_URL;  // Replace PAGE_URL with your page's canonical URL variable
+      this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+      };
+      */
+      (function() { // DON'T EDIT BELOW THIS LINE
+      var d = document, s = d.createElement('script');
+      s.src = 'https://profile-website.disqus.com/embed.js';
+      s.setAttribute('data-timestamp', +new Date());
+      (d.head || d.body).appendChild(s);
+      })();
+  </script>
+  <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+
+</body>
+
+<!doctype html>
+<html>
+<head>
+  <title>Profile</title>
+</head>
+
+<body>
+  <h1><a href="index.html">Home</a></h1>
+  <br>
+  <br>
+  <br>
+  <img src="SNU logo.png">
+  <br>
+  <br>
+  <br>
+  <ol>
+    <li><a href="Introduce.html">Introduce</a></li>
+    <li><a href="Academic.html">Academic</a></li>
+    <li><a href="Career.html">Career</a></li>
+    <li><a href="Ability.html">Ability</a></li>
+  </ol>
+  <br>
+  <br>
+  <br>
+  <h2>Introduce</h2>
+  <p>
+    <br><li>born in Daegu, Republic of Korea at 1996. 07. 01</li>
+    <br><li>The Affiliated Elimentary School to the College of Education at KyeongPook National university</li>
+    <br><li>ChungGu Middle School</li>
+    <br><li>YoungJin High School</li>
+    <br><li>Major in Architecture, College of Engineering at Seoul National University</li>
+  </p>
+
+
+
+</body>
+
